@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# 
-=======
 # Concurrent SkipList and Balanced Search
->>>>>>> fc4210af6c348a2f7a200a4e3cd29f551cefd110
-
 > This project is about SkipList and balanced search. The content includes some logorithmic notations about the data structure and algorithms, as well as implementations in Java, Golang, and C#.
 
 > Last updated on April 6, 2021 by Ruizhe Zhang
